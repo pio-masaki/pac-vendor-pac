@@ -1,4 +1,4 @@
-pac-vendor-pac
-==============
+android_vendor_pac
+==================
 
-Vendor stuff for DLX on PAC
+PAC-man Vendor repository
